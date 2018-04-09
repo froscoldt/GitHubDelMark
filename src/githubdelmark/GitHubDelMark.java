@@ -17,7 +17,7 @@ public class GitHubDelMark {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        
+        int life = 0;
         //hej
     }
     
